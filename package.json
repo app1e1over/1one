@@ -1,0 +1,24 @@
+{
+  "name": "1one",
+  "version": "1.0.0",
+  "description": "first",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/app1e1over/goit-node-hw-01.git"
+  },
+  "author": "Stanislav Kish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/app1e1over/goit-node-hw-01/issues"
+  },
+  "homepage": "https://github.com/app1e1over/goit-node-hw-01#readme",
+  "dependencies": {
+    "nanoid": "^5.0.3",
+    "yargs": "^17.7.2"
+  }
+}
